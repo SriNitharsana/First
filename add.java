@@ -6,5 +6,6 @@ public class Add {
         
 
         System.out.println("Sum: " + (a + b));
+        System.out.println("Sum: " + (a * b));
     }
 }
